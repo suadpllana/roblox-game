@@ -1,0 +1,4 @@
+# Tool versions for this project. Install Aftman (https://github.com/LPGhatguy/aftman)
+# then run `aftman install` in this folder to get the same Rojo version.
+[tools]
+rojo = "rojo-rbx/rojo@7.4.4"
